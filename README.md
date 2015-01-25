@@ -1,3 +1,6 @@
+Reference Material :
+http://stackoverflow.com/questions/23796316/returning-the-inverse-matrix-from-a-cached-object-in-r
+
 ### Introduction
 
 This second programming assignment will require you to write an R
